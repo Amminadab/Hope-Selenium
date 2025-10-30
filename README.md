@@ -88,6 +88,10 @@ if __name__ == '__main__':
     example_test()
 ```
 
+## Documentation
+
+For comprehensive documentation, see [DOCUMENTATION.md](DOCUMENTATION.md)
+
 ## Notes
 
 - Make sure Chrome browser is installed
